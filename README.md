@@ -43,7 +43,7 @@ development.
 
 ## 📚 More Projects
 
-* 🚚 [Delivery Time Prediction](https://github.com/SMPBenita/delivery_apps_time_predictions_using_ml) — predicts food-delivery time from order & environment features; compared Linear, k-NN, Ridge, Lasso & Random Forest.
+* 🚚 [Delivery Time Prediction](https://github.com/SMPBenita/delivery-time-prediction-ml) — predicts food-delivery time from order & environment features; compared Linear, k-NN, Ridge, Lasso & Random Forest.
 * 📰 [Fake News Classifier](https://github.com/SMPBenita/fake_news_classifier) — NLP model to distinguish real from fake news articles.
 * 🎬 [Movie Genre Classification](https://github.com/SMPBenita/movie_genre_classification_with_multi-label_output) — multi-label text classification of films by genre.
 * 📈 [DJIA Sentiment Analysis](https://github.com/SMPBenita/sentiment_analysis_of_DJIA_stocks_using_news_headlines) — sentiment analysis of stock movement using news headlines.
