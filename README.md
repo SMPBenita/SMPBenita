@@ -71,6 +71,8 @@ development.
 
 **Data & Analytics:** Pandas · Power BI · Statistical Analysis
 
+**Cloud:** AWS
+
 ---
 
 ## 📫 Connect With Me
